@@ -1,5 +1,5 @@
 /*
-	Implement Circular Linked List using templates. Include functions for insertion, deletion and search of a number, reverse the list.
+	Implement Circular Linked List using templates. Include functions for insertion, deletion and search of a number, reverse the list
 */
 #include<iostream>
 using namespace std;

@@ -1,6 +1,6 @@
 /*
 	WAP using templates to sort a list of elements.
-	Give user the option to perform sorting using Insertion sort, Bubble sort or Selection sort.
+	Give user the option to perform sorting using Insertion sort, Bubble sort or Selection sort
 */
 #include<iostream>
 using namespace std;

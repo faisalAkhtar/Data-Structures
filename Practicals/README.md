@@ -1,6 +1,7 @@
 <h1>COMPUTER SCIENCE LAB (C-V): Data Structures Lab</h1>
 	<br>
 <h3>Practical: 60 Lectures</h3>
+
 | No	|	Practical	|
 | ----- | ------------------------------------------------------------------------------------- |
 | 1	| Write a program to search an element from a list. Give user the option to perform Linear or Binary search. Use Template functions. |

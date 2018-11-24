@@ -1,13 +1,6 @@
 <h1>COMPUTER SCIENCE LAB (C-V): Data Structures Lab</h1>
 	<br>
 <h3>Practical: 60 Lectures</h3>
-8. Perform Queues operations using Circular Array implementation. Use Templates.
-	<br>
-9. Create and perform different operations on Double-ended Queues using Linked List
-implementation.
-	<br>
-10. WAP to scan a polynomial using linked list and add two polynomial.
-
 | No	|	Practical	|
 | ----- | ------------------------------------------------------------------------------------- |
 | 1	| Write a program to search an element from a list. Give user the option to perform Linear or Binary search. Use Template functions. |

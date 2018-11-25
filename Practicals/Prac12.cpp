@@ -1,7 +1,7 @@
 /*
 	WAP to display fibonacci series
 		 (i) using recursion
-		(ii) using iteration
+		(ii) using iteration.
 */
 #include<iostream>
 using namespace std;
